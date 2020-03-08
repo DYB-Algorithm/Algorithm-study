@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q_11399 {
+public class Main {
 	public static void main(String[] args) {
 		
 		// 첫째 줄에 사람의 수 N(1 ≤ N ≤ 1,000)이 주어진다. 
