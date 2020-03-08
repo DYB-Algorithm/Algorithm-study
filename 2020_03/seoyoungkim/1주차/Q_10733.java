@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Q_10773 {
+public class Main {
 	public static void main(String[] args) {
 		
 		// 첫 번째 줄에 정수 K가 주어진다. (1 ≤ K ≤ 100,000)
