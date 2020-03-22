@@ -19,17 +19,17 @@ public class Q_1003 {
 		
 		fib[0] = 0; count0[0] = 1; count1[0] = 0;
 		fib[1] = 1; count0[1] = 0; count1[1] = 1;
-
-    for (int i = 2; i <= 40 ; i++) {
-      fib[i] = fib[i-1] + fib[i-2];
-      count0[i] = count0[i-1] + count0[i-2];
-      count1[i] = count1[i-1] + count1[i-2];
-    }
-
-    for (int i = 0; i < T; i++) {
-      System.out.println(count0[N[i]] + " " + count1[N[i]]);
-    }
-	 
+		
+		for (int i = 2; i <= 40 ; i++) {
+			fib[i] = fib[i-1] + fib[i-2];
+			count0[i] = count0[i-1] + count0[i-2];
+			count1[i] = count1[i-1] + count1[i-2];
+		}
+		
+		for (int i = 0; i < T; i++) {
+			System.out.println(count0[N[i]] + " " + count1[N[i]]);
+		}
+		
 		sc.close();
 	}
 }
