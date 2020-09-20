@@ -1,4 +1,6 @@
-# Algorithm-study
-## 백준 알고리즘 
-https://www.acmicpc.net/ <br>
-일주일에 3문제<br>
+# 🌱 Algorithm study & Jandi simgi project 🌱
+## Baekjoon Online Judge ( https://www.acmicpc.net/ )
+<br>
+김서영 - Java
+<br>
+김서현 - C++
